@@ -1,0 +1,9 @@
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\bin\Debug\System.Web.Razor.dll
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\bin\Debug\System.Web.Razor.pdb
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.csprojResolveAssemblyReference.cache
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.Common.CommonResources.resources
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.Resources.RazorResources.resources
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.csproj.GenerateResource.Cache
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.dll
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\src\System.Web.Razor\obj\Debug\System.Web.Razor.pdb
+C:\Users\Virak Kaing\Documents\git upload\ASP.NET-Mvc-3-master\webpages\bin\Debug\System.Web.Razor.dll.config
